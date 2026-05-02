@@ -85,6 +85,10 @@ This project can be deployed using:
 
 Lingaraj Nayak
 
+
+## Demo-link
+https://vercel.com/lingaa-2005s-projects/water-intake-app
+
 ## Snapshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9210d9af-96eb-4abb-9c63-254fa7e75ce5" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19ba3d65-248b-4191-b954-bf9c7c77eaa6" />
